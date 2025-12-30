@@ -14,10 +14,10 @@ This project is a simple **HTML-only website** that showcases articles about **I
 - Contact form for user feedback (HTML-only, no backend)
 
 ## Example Cars Featured 
--Hindustan Ambassador
+- Hindustan Ambassador
 - Premier Padmini
 - Hindustan Motors Contessa  
--Mahindra Jeep (CJ / MM540)
+- Mahindra Jeep (CJ / MM540)
 ## Technology Used
 
 - **HTML5** – The core language used to build the structure and content of the website.  
